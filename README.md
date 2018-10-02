@@ -179,3 +179,8 @@ Para clonar algún proyecto simplemente vamos a GitHub, buscamos el link al proy
 **git clone `https://github.com/academiacoder/prueba.git`**
 
 Esto creará una carpeta con el nombre del proyecto y dentro ya tendremos un proyecto inicializado de Git completo.
+
+
+Añadiendo cosas en la rama de desarrollo.
+
+Esto puede romper nuestro proyecto
