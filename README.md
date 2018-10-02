@@ -18,6 +18,7 @@
 8. GitHub
     1. Sincronizar nuestro proyecto
     2. Clonar proyecto
+9. Despedida
 
 
 <div id="id1"></div>
@@ -180,6 +181,7 @@ Para clonar algún proyecto simplemente vamos a GitHub, buscamos el link al proy
 
 Esto creará una carpeta con el nombre del proyecto y dentro ya tendremos un proyecto inicializado de Git completo.
 
-
+## 9 - Despedida
 Espero que esta guía les haya servido!
+
 Gracias por mirar y por Aprender!
